@@ -1,6 +1,6 @@
 # Table of contents
-1. [Requirementslink](#requirementslink)
-2. [Some paragraph](#paragraph1)
+1. [Link above paragraph](#requirementslink)
+2. [Link on paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
@@ -63,7 +63,7 @@ Starting: `docker compose -f app/library-dev.yaml up -d`
 Stopping: `docker compose -f app/library-dev.yaml down -v`
 
 
-## Some paragraph <a name="paragraph1"></a>
+## paragraph1
 The first paragraph text
 
 <a name="requirementslink"></a>
