@@ -1,8 +1,6 @@
 # Table of contents
 1. [Link above paragraph](#requirementslink)
 2. [Link on paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
 
 
 ## Requirements:
